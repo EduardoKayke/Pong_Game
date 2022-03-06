@@ -10,7 +10,7 @@ Data de conclusão: 10/12/2021
 ```js
 function Pong(Project) {
     if (Front End) {
-        const Stack = `${HTML}, ${CSS}`;
+        const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
     } 
 };
 ```
